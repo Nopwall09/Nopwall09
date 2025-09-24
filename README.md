@@ -46,7 +46,3 @@ Play with me!!!
 
 ![Pac-Man](https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph.svg)
 
----
----
-![Snake animation](https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/github-contribution-grid-snake-dark.svg)
----
