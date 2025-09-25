@@ -70,5 +70,5 @@ public class MyJourney {
 
 ![Pac-Man](https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph.svg)
 
-<p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nopwall09&layout=compact&theme=tokyonight" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nopwall09&theme=tokyonight" /></p>
+<p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nopwall09&layout=compact&theme=tokyonight" /> </p>
 
