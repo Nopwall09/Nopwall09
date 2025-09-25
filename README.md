@@ -1,4 +1,28 @@
 <h1 align="center">Hi Iam Naufal Athaya Khansa</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nopwall09&label=Profile+Views&color=brightgreen&style=flat-square" /> </p>
+
+---
+## 🧑‍💻 About Me
+- 🎓 **Major**: Informatics Management  
+- 💡 **Learning By Doing**: Academic projects, personal experiments  
+- ⚙️ **Tech interests**: Data Analyst, UI/UX, Web Devloper 
+- 📬 **Reach me**: [nakhns04@gmail.com](mailto:nakhns04@gmail.com)
+---
+>_"💻 In Informatics We Trust — Managing information is managing our future."_
+```java
+public class MyJourney {
+    private String status = "Informatics Management Student";
+    private String hobby = "Coding and Coffee";
+    private String goal = "Become rich guy"
+    private boolean isGraduated = false;
+
+    public void displayProgress() {
+        System.out.println("🎓 Student focusing on: make my parent proud first");
+        System.out.println("🎯 Aiming to become: Coffee shop and Roastery owner");
+        System.out.println("📚 Current projects: Academic assignments");
+    }
+}
+```
 
 ###
 
