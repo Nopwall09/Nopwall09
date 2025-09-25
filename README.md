@@ -4,7 +4,8 @@
 ---
 ## 🧑‍💻 About Me
 - 🎓 **Major**: Informatics Management  
-- 💡 **Learning By Doing**: Academic projects, personal experiments  
+- 🌍 **Languages**: Bahasa Indonesia, English
+- 🌱 **Soft Skills**: Always curious, problem solver, teamwork enthusiast
 - ⚙️ **Tech interests**: Data Analyst, UI/UX, Web Devloper 
 - 📬 **Reach me**: [nakhns04@gmail.com](mailto:nakhns04@gmail.com)
 ---
