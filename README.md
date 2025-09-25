@@ -60,7 +60,7 @@ public class MyJourney {
 </div>
 
 ###
-
+---
 ###
 <p align="center">
   🔗 <b>Stay Connected!</b>
@@ -84,7 +84,7 @@ public class MyJourney {
 </div>
 
 ###
-
+---
 ![Pac-Man](https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph.svg)
 
 <p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nopwall09&layout=compact&theme=tokyonight" /> </p>
