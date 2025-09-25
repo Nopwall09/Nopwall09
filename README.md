@@ -2,6 +2,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nopwall09&label=Profile+Views&color=brightgreen&style=flat-square" /> </p>
 
 ---
+<img src="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/snake.svg" alt="Snake animation" />
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
 ## 🧑‍💻 About Me
 - 🎓 **Major**: Informatics Management  
 - 🌍 **Languages**: Bahasa Indonesia, English
@@ -86,16 +97,7 @@ public class MyJourney {
 ###
 ---
 
-<img src="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/snake.svg" alt="Snake animation" />
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ###
 <p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nopwall09&layout=compact&theme=tokyonight" /> </p>
