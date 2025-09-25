@@ -1,23 +1,21 @@
 <h1 align="center">Hi Iam Naufal Athaya Khansa</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nopwall09&label=Profile+Views&color=brightgreen&style=flat-square" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nopwall09&label=Profile+Views&color=brightgreen&style=flat-square" /></p>
+
 
 ---
 
-<br clear="both">
-
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Nopwall09/Nopwall09/output/snake.svg" alt="Snake animation" />
 
 ###
+
 ---
 ## 🧑‍💻 About Me
 - 🎓 **Major**: Informatics Management  
