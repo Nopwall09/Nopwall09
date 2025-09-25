@@ -2,6 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nopwall09&label=Profile+Views&color=brightgreen&style=flat-square" /> </p>
 
 ---
+
 <br clear="both">
 
 <picture>
@@ -107,5 +108,3 @@ public class MyJourney {
 ###
 <p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nopwall09&layout=compact&theme=tokyonight" /> </p>
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dj6vrc7vf6lzkytaortix2tnk4)
