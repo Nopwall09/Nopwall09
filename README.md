@@ -1,11 +1,11 @@
-<h1 align="center">Hi Iam Naufal Athaya Khansa</h1>
+<h1 align="center">Hi! Iam Naufal Athaya Khansa, your Future Informatics Engineering</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nopwall09&label=Profile+Views&color=brightgreen&style=flat-square" /></p>
 
 
 ---
 ## 🧑‍💻 About Me
 - 🎓 **Major**: Informatics Management  
-- 🌍 **Languages**: Bahasa Indonesia, English
+- 🌍 **Languages**: Indonesia, English, Javanese
 - 🌱 **Soft Skills**: Always curious, problem solver, teamwork enthusiast
 - ⚙️ **Tech interests**: Data Analyst, UI/UX, Web Devloper 
 - 📬 **Reach me**: [nakhns04@gmail.com](mailto:nakhns04@gmail.com)
