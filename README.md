@@ -64,7 +64,7 @@ public class MyJourney {
 ---
 ###
 <p align="center">
-  🔗 <b>Stay Connected!</b>
+  👋<b>Catch me on</b>
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fmypreferences%2Fm%2F" target="_blank">
