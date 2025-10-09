@@ -1,4 +1,4 @@
-<h1 align="center">Hi! Iam Naufal Athaya Khansa, your Future Informatics Engineering</h1>
+<h1 align="center">Hi! Iam Naufal Athaya Khansa, your Future Informatics Engineer</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nopwall09&label=Profile+Views&color=brightgreen&style=flat-square" /></p>
 
 
